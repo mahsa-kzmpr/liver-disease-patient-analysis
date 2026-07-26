@@ -151,7 +151,6 @@ The interactive Power BI report is available here:
 ## Notes
 
 - The raw patient-level dataset is not included in this repository.
-- The analytical PDF report is not included.
 - Missing or unrecorded categories were retained in the data model but excluded from selected visuals when they did not support meaningful interpretation.
 - The project is intended for portfolio and analytical demonstration purposes.
 
